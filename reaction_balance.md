@@ -39,7 +39,7 @@ $\def\water{\text{H}_2\text{O}}$
 
 ---
 
-## Synthesis Reaction
+## Synthesis
 
 * Synthesis combines two substances into one. 
 * Example:
@@ -70,7 +70,7 @@ $\def\water{\text{H}_2\text{O}}$
 
 ---
 
-## Double Replacement Reaction
+## Double Replacement
 
 * Two reactants react to form seperate products.
 * Example:
