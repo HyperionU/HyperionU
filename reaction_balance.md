@@ -8,7 +8,7 @@ math: mathjax
 
 $\def\dc{\xrightarrow{\ominus}}$
 $\def\ox{\xrightarrow{O}}$
-$\def\comp{\circ}$
+$\def\comp{\xrightarrow{\oplus}}$
 $\def\mane{\text{CH}_4}$
 $\def\cdio{\text{CO}_2}$
 $\def\eio{\text{I}_2}$
@@ -43,10 +43,10 @@ $\def\water{\text{H}_2\text{O}}$
 
 * Synthesis combines two substances into one. 
 * Example:
-    * $\text{Na (s)}\comp\text{Cl}_2 \text{(g)}\ra\text{NaCl (s)}$
+    * $\text{Na (s)}+\text{Cl}_2 \text{(g)}\comp\text{NaCl (s)}$
     * *Where does the extra chlorine go?*
 * Balanced Example:
-    * $2\text{Na (s)}\comp\text{Cl}_2 \text{(g)}\ra 2\text{NaCl (s)}$
+    * $2\text{Na (s)}+\text{Cl}_2 \text{(g)}\comp 2\text{NaCl (s)}$
 
 ---
 
@@ -62,11 +62,11 @@ $\def\water{\text{H}_2\text{O}}$
 
 * A more active element "replaces" a less active element.
 * Example:
-    * $\text{Zn (s)}\comp\text{HCl (aq)}\ra\text{ZnCl}_2\text{ (aq)}+\text{H}_2\text{ (g)}$
+    * $\text{Zn (s)}+\text{HCl (aq)}\ra\text{ZnCl}_2\text{ (aq)}+\text{H}_2\text{ (g)}$
     * *How did we get another Chlorine?*
 * *Note:* $\text{(aq)}$ means aqueous. The chemical is dissolved in a water solution.
 * Balanced Example:
-    * $\text{Zn (s)}\comp2\text{HCl (aq)}\ra\text{ZnCl}_2\text{ (aq)}+\text{H}_2\text{ (g)}$
+    * $\text{Zn (s)}+2\text{HCl (aq)}\ra\text{ZnCl}_2\text{ (aq)}+\text{H}_2\text{ (g)}$
 
 ---
 
@@ -74,10 +74,10 @@ $\def\water{\text{H}_2\text{O}}$
 
 * Two reactants react to form seperate products.
 * Example:
-    * $\text{PbCl}_2\text{ (aq)}\comp\text{Na}_2\text{S (aq)}\ra\text{PbS (s)} + \text{NaCl (aq)}$
+    * $\text{PbCl}_2\text{ (aq)}+\text{Na}_2\text{S (aq)}\ra\text{PbS (s)} + \text{NaCl (aq)}$
     * *Where did the extra products go?*
 * Balanced Example:
-    * $\text{PbCl}_2\text{ (aq)}\comp\text{Na}_2\text{S (aq)}\ra\text{PbS (s)} + 2\text{NaCl (aq)}$
+    * $\text{PbCl}_2\text{ (aq)}+\text{Na}_2\text{S (aq)}\ra\text{PbS (s)} + 2\text{NaCl (aq)}$
 
 ---
 
@@ -91,18 +91,16 @@ $\def\water{\text{H}_2\text{O}}$
 
 ---
 
-## Summary:
-
 * Composition
-    * $A \comp B \ra AB$
+    * $A+B \comp AB$
 * Decomposition
     * $AB \dc A+B$
 * Single Replacement
-    * $A \comp BC \ra AC+B$
+    * $A+BC \ra AC+B$
 * Double Replacement
-    * $AB \comp CD \ra AD+CB$
+    * $AB+CD \ra AD+CB$
 * Combustion
-    * $\text{C}_x\text{H}_y \comp \eox \comb \water+\cdio$
+    * $\text{C}_x\text{H}_y+\eox \comb \water+\cdio$
 
 ---
 
@@ -118,5 +116,5 @@ $\def\water{\text{H}_2\text{O}}$
 
 * The point where both the obverse and reverse reactions give no net change.
 * Example:
-    * $\ehy\comp\eio\ceq2\text{HI}$
+    * $\ehy+\eio\ceq2\text{HI}$
 
