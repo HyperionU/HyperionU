@@ -84,7 +84,7 @@ $\def\water{\text{H}_2\text{O}}$
 ## Combustion
 * A reactant (fuel) combines with Oxygen. 
 * Example:
-    * $\mane\text{ (g)}\comp2\eox\text{ (g)} \comb \text{CO}_2\text{ (g)}+2\text{H}_2\text{O (g)}$
+    * $\mane\text{ (g)}+2\eox\text{ (g)} \comb \text{CO}_2\text{ (g)}+2\text{H}_2\text{O (g)}$
 * If Nitrogen is in the fuel, it reacts into Elemental Nitrogen ($\eni$)
 * Example:
     * $2\text{C}_2\ehy\eni\text{O}_4 +\eox \comb 4\cdio+2\water+2\eni$
@@ -108,7 +108,7 @@ $\def\water{\text{H}_2\text{O}}$
 
 * A Double Replacement Reaction where an Acid & Base react to form a Salt & Water
 * Example:
-    * $\text{HCl (aq)}\comp\text{NaOH (aq)}\neut \text{NaCl (aq)}+\text{H}_2\text{O (l)}$
+    * $\text{HCl (aq)}+\text{NaOH (aq)}\neut \text{NaCl (aq)}+\text{H}_2\text{O (l)}$
 
 ---
 
